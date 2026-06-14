@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-ollama
+langchain-mcp-adapters
+langchain-core
+langgraph
+httpx
+asyncio
