@@ -11,7 +11,7 @@ OLLAMA_ENDPOINT = "https://evident-lens-surpass.ngrok-free.dev"
 MODEL_NAME = "llama3.2"  # This automatically runs the tool-capable 3B variant
 
 # 2. Your unique hosted Zapier MCP URL obtained from mcp.zapier.com
-ZAPIER_MCP_SSE_URL = "https://mcp.zapier.com/api/v1/connect?token=ZjgyMTM5ZWQtYjI2MC00ZjY4LWI5OTktYWQzMzY2MTM5MTkwOjNFRWFGN0wrVnFOL04vaHhzQzVhYWtjQVNPZDJUaHVPQ1hJWnpGYmlkY2M9/mcp"
+ZAPIER_MCP_SSE_URL = "https://mcp.zapier.com/api/v1/connect?token=ZjgyMTM5ZWQtYjI2MC00ZjY4LWI5OTktYWQzMzY2MTM5MTkwOjNFRWFGN0wrVnFOL04vaHhzQzVhYWtjQVNPZDJUaHVPQ1hJWnpGYmlkY2M9"
 
 st.set_page_config(page_title="Zapier MCP Agent (Llama 3.2)", layout="wide", page_icon="🤖")
 
